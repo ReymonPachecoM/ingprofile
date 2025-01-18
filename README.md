@@ -47,9 +47,8 @@ Ingeniero en Desarrollo y Gestión de Software con más de 4 años de experienci
 
 ## 🤝 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario](http://linkedin.com/in/reymon-pacheco-mejia-0b7271267))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reymon-pacheco-mejia-0b7271267/)
 [![Correo](https://img.shields.io/badge/Email-reymonmejia1@gmail.com-red)](mailto:reymonmejia1@gmail.com)
-
 
 ---
 
