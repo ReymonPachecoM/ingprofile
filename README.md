@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👋 ¡Hola! Soy Reymon Pacheco Mejía
 
 ## 🌟 Sobre mí
